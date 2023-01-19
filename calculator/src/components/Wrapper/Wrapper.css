@@ -1,0 +1,10 @@
+.wrapper {
+    width: 340px;
+    height: 540px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(41, 50, 65);
+    background-color: rgb(152, 193, 217);
+    background-image: linear-gradient(315deg, rgb(152, 193, 217) 0%, rgb(119, 183, 219) 74%);
+    filter: drop-shadow(12px 12px 10px rgb(44, 44, 44));
+  }
